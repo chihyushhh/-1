@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <sys/time.h>
+#include <ctype.h>
+int myquicksort();
+int mymergesort();
+int myradixsort();
+int myquicksort_s();
+int mymergesort_s();
+int myradixsort_s();
